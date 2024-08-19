@@ -1,6 +1,6 @@
 # Seja Bem vindo!
 
-Olá! Me chamo __*Thiago Bristot*__ e este é meu portfólio.
+Olá! Me chamo __*Thiago Bristot*__, tenho 20 anos e este é meu portfólio.
 
 ## 📋 Sobre mim:
 
