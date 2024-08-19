@@ -1,6 +1,6 @@
 # Seja Bem vindo!
 
-Olá! Me chamo Thiago Bristot, esse é meu portfólio.
+Olá! Me chamo __*Thiago Bristot*__, esse é meu portfólio.
 
 ### 📋 Sobre mim:
 
@@ -19,11 +19,9 @@ Dar exemplos
 ### ⌛ Experiência:
 
 
-```
-Dar exemplos
-```
+- (Atualmente trabalho na empresa __Tche Informática__ (desenvolvedora de software). Com aplicações rodando em JAVA, genexus e python. Realizo a conferência e a manutenção desses sistemas, além de atender ao público, com problemas em algum de nossos sitemas, a fim de encontrar uma solução para o cliente.)
 
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="/static/css/styles.css">
 
 ### ⌨️ Habilidades
 
