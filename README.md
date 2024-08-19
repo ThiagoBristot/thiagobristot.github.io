@@ -25,30 +25,30 @@ Dar exemplos
 ### ⌨️ Habilidades
 
 #### Back-End
-| Linguagem | Proficiência |
-| --- | --- |
-| Python | ![](https://geps.dev/progress/65) |
-| Flask | ![](https://geps.dev/progress/60) |
-| Node.js | ![](https://geps.dev/progress/50) |
+|Linguagem|Proficiência|
+| :------: | :------: |
+| Python | ![](https://geps.dev/progress/75) |
+| Flask | ![](https://geps.dev/progress/70) |
+| Node.js | ![](https://geps.dev/progress/55) |
 
 #### Databases
-| Bancos | Proficiência |
-| --- | --- |
+|Bancos|Proficiência|
+| :------: | :------: |
 | MariaDB | ![](https://geps.dev/progress/80) |
 | Mysql | ![](https://geps.dev/progress/75) |
 | PostgreSQL | ![](https://geps.dev/progress/60) |
 
 #### Front-End
-| Linguagem | Proficiência |
-| --- | --- |
+|Linguagem|Proficiência|
+| :------: | :------: |
 | JavaScript | ![](https://geps.dev/progress/70) |
 | React | ![](https://geps.dev/progress/65) |
 | CSS | ![](https://geps.dev/progress/65) |
 
 #### Godot Engine
-| Linguagem | Proficiência |
-| --- | --- |
-| GDScript | ![](https://geps.dev/progress/55) |
+|Linguagem|Proficiência|
+| :------: | :------: |
+| GDScript | ![](https://geps.dev/progress/60) |
 
 
 
