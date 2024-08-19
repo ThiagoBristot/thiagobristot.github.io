@@ -49,7 +49,9 @@ Dar exemplos
 Você pode baixar meu currículo atualizado clicando no link abaixo:
 
 [Download Currículo](docs/CurriculoN.pdf)
-*Notas adicionais*: Caso desejar conferir o currículo em inglês, acesse o link abaixo.
 
-*additional notes*: If you want to check the resume in English, access the link below.
+- *Notas adicionais*: Caso desejar conferir o currículo em inglês, acesse o link abaixo.
+
+- *additional notes*: If you want to check the resume in English, access the link below.
+
 [Resume Download](docs/CurriculoN.pdf)
