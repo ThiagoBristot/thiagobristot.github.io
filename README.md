@@ -41,7 +41,7 @@ Olá! Me chamo __*Thiago Bristot*__, tenho 20 anos e este é meu portfólio.
 - <span class="skill">**GDScript**</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
 
 
-## 📦 Currículo:
+## 📝 Currículo:
 
 Você pode baixar meu currículo atualizado clicando no link abaixo:
 
