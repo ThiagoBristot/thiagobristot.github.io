@@ -28,51 +28,22 @@ Dar exemplos
 ### ⌨️ Habilidades
 
 #### Back-End
-<div class="skill-container">
-    <div class="skill-item">
-        <span class="skill">Python</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">Flask</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">Node.js</span> <span class="progress-bar">![](https://geps.dev/progress/55)</span>
-    </div>
-</div>
+- <span class="skill">Python</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
+- <span class="skill">Flask</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
+- <span class="skill">Node.js</span> <span class="progress-bar">![](https://geps.dev/progress/55)</span>
 
 #### Databases
-<div class="skill-container">
-    <div class="skill-item">
-        <span class="skill">MariaDB</span> <span class="progress-bar">![](https://geps.dev/progress/80)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">MySQL</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">PostgreSQL</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
-    </div>
-</div>
+- <span class="skill">MariaDB</span> <span class="progress-bar">![](https://geps.dev/progress/80)</span>
+- <span class="skill">MySQL</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
+- <span class="skill">PostgreSQL</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
 
 #### Front-End
-<div class="skill-container">
-    <div class="skill-item">
-        <span class="skill">JavaScript</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">React</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
-    </div>
-    <div class="skill-item">
-        <span class="skill">CSS</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
-    </div>
-</div>
+- <span class="skill">JavaScript</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
+- <span class="skill">React</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
+- <span class="skill">CSS</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
 
 #### Godot Engine
-<div class="skill-container">
-    <div class="skill-item">
-        <span class="skill">GDScript</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
-    </div>
-</div>
-
+- <span class="skill">GDScript</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
 
 
 ### 📦 Currículo:
