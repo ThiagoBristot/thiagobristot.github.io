@@ -12,9 +12,9 @@ Dar exemplos
 
 ### 📚 Escolaridade
 
-####Ensino Medio completo - Escola de Ensino Médio Dr. Aldo Conte 
+- Ensino Medio completo - __Escola de Ensino Médio Dr. Aldo Conte__ 
 
-####Ensino superior em Análise e Desenvolvimento de sistemas - Universidade de Passo Fundo (cursando atualmente)
+- Ensino superior em Análise e Desenvolvimento de sistemas - __Universidade de Passo Fundo__ (cursando atualmente)
 
 ### ⌛ Experiência
 
