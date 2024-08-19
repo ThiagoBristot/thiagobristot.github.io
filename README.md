@@ -12,8 +12,9 @@ Dar exemplos
 
 ### 📚 Escolaridade
 
-Ensino Medio completo - Escola de Ensino Médio Dr. Aldo Conte 
-Ensino superior em Análise e Desenvolvimento de sistemas - Universidade de Passo Fundo (cursando atualmente)
+####Ensino Medio completo - Escola de Ensino Médio Dr. Aldo Conte 
+
+####Ensino superior em Análise e Desenvolvimento de sistemas - Universidade de Passo Fundo (cursando atualmente)
 
 ### ⌛ Experiência
 
@@ -25,30 +26,22 @@ Dar exemplos
 ### ⌨️ Habilidades
 
 #### Back-End
-|Linguagem|Proficiência|
-| :------: | :------: |
-| Python | ![](https://geps.dev/progress/75) |
-| Flask | ![](https://geps.dev/progress/70) |
-| Node.js | ![](https://geps.dev/progress/55) |
+Python ![](https://geps.dev/progress/75)
+Flask ![](https://geps.dev/progress/70)
+Node.js ![](https://geps.dev/progress/55)
 
 #### Databases
-|Bancos|Proficiência|
-| :------: | :------: |
-| MariaDB | ![](https://geps.dev/progress/80) |
-| Mysql | ![](https://geps.dev/progress/75) |
-| PostgreSQL | ![](https://geps.dev/progress/60) |
+MariaDB ![](https://geps.dev/progress/80)
+Mysql ![](https://geps.dev/progress/75)
+PostgreSQL ![](https://geps.dev/progress/60)
 
 #### Front-End
-|Linguagem|Proficiência|
-| :------: | :------: |
-| JavaScript | ![](https://geps.dev/progress/70) |
-| React | ![](https://geps.dev/progress/65) |
-| CSS | ![](https://geps.dev/progress/65) |
+JavaScript ![](https://geps.dev/progress/70)
+React ![](https://geps.dev/progress/65)
+CSS ![](https://geps.dev/progress/65)
 
 #### Godot Engine
-|Linguagem|Proficiência|
-| :------: | :------: |
-| GDScript | ![](https://geps.dev/progress/60) |
+GDScript ![](https://geps.dev/progress/60)
 
 
 
