@@ -2,7 +2,7 @@
 
 Olá! Me chamo Thiago Bristot, esse é meu portfólio.
 
-### 📋 Sobre mim
+### 📋 Sobre mim:
 
 
 
@@ -10,20 +10,20 @@ Olá! Me chamo Thiago Bristot, esse é meu portfólio.
 Dar exemplos
 ```
 
-### 📚 Escolaridade
+### 📚 Escolaridade:
 
 - Ensino Medio completo - __Escola de Ensino Médio Dr. Aldo Conte__ 
 
 - Ensino superior em Análise e Desenvolvimento de sistemas - __Universidade de Passo Fundo__ (cursando atualmente)
 
-### ⌛ Experiência
+### ⌛ Experiência:
 
 
 ```
 Dar exemplos
 ```
 
-### ⌨️ Habilidades
+### ⌨️ Habilidades:
 
 #### Back-End
 - **Python** &emsp; ![](https://geps.dev/progress/75)
@@ -44,13 +44,17 @@ Dar exemplos
 - **GDScript** &emsp; ![](https://geps.dev/progress/60)
 
 
-### 📦 Currículo
+### 🗣️ Idiomas falados:
+
+- **Português** &emsp; ![](https://geps.dev/progress/95)
+- **Inglês** &emsp; ![](https://geps.dev/progress/75)
+
+
+### 📦 Currículo:
 
 Você pode baixar meu currículo atualizado clicando no link abaixo:
 
 [Download Currículo](docs/CurriculoN.pdf)
-
-- *Notas adicionais*: Caso desejar conferir o currículo em inglês, acesse o link abaixo.
 
 - *additional notes*: If you want to check the resume in English, access the link below.
 
