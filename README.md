@@ -23,31 +23,56 @@ Dar exemplos
 Dar exemplos
 ```
 
-### ⌨️ Habilidades:
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+### ⌨️ Habilidades
 
 #### Back-End
-- **Python** &emsp; ![](https://geps.dev/progress/75)
-- **Flask** &emsp; ![](https://geps.dev/progress/70)
-- **Node.js** &emsp; ![](https://geps.dev/progress/55)
+<div class="skill-container">
+    <div class="skill-item">
+        <span class="skill">Python</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">Flask</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">Node.js</span> <span class="progress-bar">![](https://geps.dev/progress/55)</span>
+    </div>
+</div>
 
 #### Databases
-- **MariaDB** &emsp; ![](https://geps.dev/progress/80)
-- **MySQL** &emsp; ![](https://geps.dev/progress/75)
-- **PostgreSQL** &emsp; ![](https://geps.dev/progress/60)
+<div class="skill-container">
+    <div class="skill-item">
+        <span class="skill">MariaDB</span> <span class="progress-bar">![](https://geps.dev/progress/80)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">MySQL</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">PostgreSQL</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
+    </div>
+</div>
 
 #### Front-End
-- **JavaScript** &emsp; ![](https://geps.dev/progress/70)
-- **React** &emsp; ![](https://geps.dev/progress/65)
-- **CSS** &emsp; ![](https://geps.dev/progress/65)
+<div class="skill-container">
+    <div class="skill-item">
+        <span class="skill">JavaScript</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">React</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
+    </div>
+    <div class="skill-item">
+        <span class="skill">CSS</span> <span class="progress-bar">![](https://geps.dev/progress/65)</span>
+    </div>
+</div>
 
 #### Godot Engine
-- **GDScript** &emsp; ![](https://geps.dev/progress/60)
+<div class="skill-container">
+    <div class="skill-item">
+        <span class="skill">GDScript</span> <span class="progress-bar">![](https://geps.dev/progress/60)</span>
+    </div>
+</div>
 
-
-### 🗣️ Idiomas falados:
-
-- **Português** &emsp; ![](https://geps.dev/progress/95)
-- **Inglês** &emsp; ![](https://geps.dev/progress/75)
 
 
 ### 📦 Currículo:
