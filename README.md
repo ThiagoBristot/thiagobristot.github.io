@@ -1,11 +1,11 @@
 # Seja Bem vindo!
 
-Olá! Me chamo __*Thiago Bristot*__, esse é meu portfólio.
+Olá! Me chamo __*Thiago Bristot*__ e este é meu portfólio.
 
 ## 📋 Sobre mim:
 
-- (Sou iniciante na programação (possuo menos de um ano de experiência).)
-- (Dito isso, além de ser competente, atingir e ultrapassar metas estabelecidas, desenvolvo um código limpo, para que tanto o consumidor final, quanto os desenvolvedores envolvidos no projeto possam utilizá-lo da melhor maneira possível. Sou confiável, disposto a aprender e ótimo trabalhando em equipe)
+- Sou iniciante na programação (possuo menos de um ano de experiência).
+- Dito isso, além de ser competente, atingir e ultrapassar metas estabelecidas, desenvolvo um código limpo, para que tanto o consumidor final, quanto os desenvolvedores envolvidos no projeto possam utilizá-lo da melhor maneira possível. Sou confiável, disposto a aprender e ótimo trabalhando em equipe
 
 ## 📚 Escolaridade:
 
