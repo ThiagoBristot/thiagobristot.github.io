@@ -44,12 +44,10 @@ Dar exemplos
 - **GDScript** &emsp; ![](https://geps.dev/progress/60)
 
 
+### 📦 Currículo
 
+Você pode baixar meu currículo atualizado clicando no link abaixo:
 
-```
-Dar exemplos
-```
+[Download Currículo](link_para_seu_curriculo.pdf)
 
-## 📦 Currículo
-
-Adicione notas adicionais sobre o curriculo, adicionar download
+*Notas adicionais*: Aqui você pode adicionar qualquer nota adicional sobre o currículo, como formatos disponíveis, idiomas, ou qualquer outra informação relevante.
