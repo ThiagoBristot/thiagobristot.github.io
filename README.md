@@ -26,22 +26,23 @@ Dar exemplos
 ### ⌨️ Habilidades
 
 #### Back-End
-Python ![](https://geps.dev/progress/75)
-Flask ![](https://geps.dev/progress/70)
-Node.js ![](https://geps.dev/progress/55)
+- **Python** &emsp; ![](https://geps.dev/progress/75)
+- **Flask** &emsp; ![](https://geps.dev/progress/70)
+- **Node.js** &emsp; ![](https://geps.dev/progress/55)
 
 #### Databases
-MariaDB ![](https://geps.dev/progress/80)
-Mysql ![](https://geps.dev/progress/75)
-PostgreSQL ![](https://geps.dev/progress/60)
+- **MariaDB** &emsp; ![](https://geps.dev/progress/80)
+- **MySQL** &emsp; ![](https://geps.dev/progress/75)
+- **PostgreSQL** &emsp; ![](https://geps.dev/progress/60)
 
 #### Front-End
-JavaScript ![](https://geps.dev/progress/70)
-React ![](https://geps.dev/progress/65)
-CSS ![](https://geps.dev/progress/65)
+- **JavaScript** &emsp; ![](https://geps.dev/progress/70)
+- **React** &emsp; ![](https://geps.dev/progress/65)
+- **CSS** &emsp; ![](https://geps.dev/progress/65)
 
 #### Godot Engine
-GDScript ![](https://geps.dev/progress/60)
+- **GDScript** &emsp; ![](https://geps.dev/progress/60)
+
 
 
 
