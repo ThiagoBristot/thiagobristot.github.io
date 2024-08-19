@@ -2,6 +2,8 @@
 
 Um parágrafo da descrição do projeto vai aqui
 
+![Scanner_20240808 (2)](https://github.com/user-attachments/assets/c38404f6-4941-4710-920e-332a3b8025ed)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
