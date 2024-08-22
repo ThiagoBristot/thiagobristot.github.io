@@ -47,6 +47,16 @@ Você pode baixar meu currículo atualizado clicando no link abaixo:
 
 [Download Currículo](docs/CurriculoN.pdf)
 
-- *additional notes*: You can download my resume in English, just access the link below.
+*additional notes*: You can download my resume in English, just access the link below.
 
 [Resume Download](docs/CurriculoN.pdf)
+
+## 👨🏻‍💻 Projetos:
+
+### Abaixo, segue o link de alguns de meus projetos. Caso queira conferir meu trabalho.
+
+- SalvaVisitas: https://github.com/ThiagoBristot/SalvaVisitas.git 
+### Programa desenvolvido para consulta, inserção, modificação e exclusão de um banco de dados em mariaDB via ambiente gráfico (website).
+
+- BumBattle: https://github.com/ThiagoBristot/BumBattle.git
+### Tenho em vista montar um plataformer 2D, multiplayer, com armas e itens variados, sendo um jogo de movimentação dinâmica e rápida. Com diversas fases e diferentes temas de ambiente.
