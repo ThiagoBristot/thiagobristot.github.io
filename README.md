@@ -55,8 +55,8 @@ Você pode baixar meu currículo atualizado clicando no link abaixo:
 
 ### Abaixo, segue o link de alguns de meus projetos. Caso queira conferir meu trabalho.
 
-- SalvaVisitas: https://github.com/ThiagoBristot/SalvaVisitas.git 
+- SalvaVisitas: <https://github.com/ThiagoBristot/SalvaVisitas.git> 
 ### Programa desenvolvido para consulta, inserção, modificação e exclusão de um banco de dados em mariaDB via ambiente gráfico (website).
 
-- BumBattle: https://github.com/ThiagoBristot/BumBattle.git
+- BumBattle: <https://github.com/ThiagoBristot/BumBattle.git>
 ### Tenho em vista montar um plataformer 2D, multiplayer, com armas e itens variados, sendo um jogo de movimentação dinâmica e rápida. Com diversas fases e diferentes temas de ambiente.
