@@ -49,7 +49,7 @@ Você pode baixar meu currículo atualizado clicando no link abaixo:
 
 *additional notes*: You can download my resume in English, just access the link below.
 
-[Resume Download](docs/CurriculoN.pdf)
+[Resume Download](docs/Resume.pdf)
 
 ## 👨🏻‍💻 Projetos:
 
