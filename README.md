@@ -16,7 +16,7 @@ Olá! Me chamo __*Thiago Bristot*__, tenho 20 anos e este é meu portfólio.
 ## ⌛ Experiência:
 
 
-- (Atualmente trabalho na empresa __Tche Informática__ (desenvolvedora de software). Com aplicações rodando em JAVA, genexus e python. Realizo a conferência e a manutenção desses sistemas, além de atender ao público, com problemas em algum de nossos sitemas, a fim de encontrar uma solução para o cliente.)
+- Atualmente trabalho na empresa __Tche Informática__ (desenvolvedora de software). Com aplicações rodando em JAVA, genexus e python. Realizo a conferência e a manutenção desses sistemas, além de atender ao público, com problemas em algum de nossos sitemas, a fim de encontrar uma solução para o cliente.
 
 <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
 
