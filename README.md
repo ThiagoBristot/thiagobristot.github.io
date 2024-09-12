@@ -23,9 +23,10 @@ Olá! Me chamo __*Thiago Bristot*__, tenho 20 anos e este é meu portfólio.
 ## ⌨️ Habilidades
 
 ### Back-End
-- <span class="skill">**Python**</span>  <span class="progress-bar">![](https://geps.dev/progress/75)</span>
-- <span class="skill">**Flask**</span>   <span class="progress-bar">![](https://geps.dev/progress/70)</span>
-- <span class="skill">**Node.js**</span> <span class="progress-bar">![](https://geps.dev/progress/55)</span>
+- <span class="skill">**Python**</span>  <span class="progress-bar">![](https://geps.dev/progress/75)
+
+
+- <span class="skill">**Node.js**</span> <span class="progress-bar">![](https://geps.dev/progress/75)</span>
 
 ### Databases
 - <span class="skill">**MariaDB**</span>    <span class="progress-bar">![](https://geps.dev/progress/80)</span>
@@ -34,7 +35,7 @@ Olá! Me chamo __*Thiago Bristot*__, tenho 20 anos e este é meu portfólio.
 
 ### Front-End
 - <span class="skill">**JavaScript**</span> <span class="progress-bar">![](https://geps.dev/progress/70)</span>
-- <span class="skill">**React**</span>      <span class="progress-bar">![](https://geps.dev/progress/65)</span>
+- <span class="skill">**React**</span>      <span class="progress-bar">![](https://geps.dev/progress/75)</span>
 - <span class="skill">**CSS**</span>        <span class="progress-bar">![](https://geps.dev/progress/65)</span>
 
 ### Godot Engine
@@ -56,7 +57,4 @@ Você pode baixar meu currículo atualizado clicando no link abaixo:
 ### Abaixo, segue o link de alguns de meus projetos. Caso queira conferir meu trabalho.
 
 - SalvaVisitas: <https://github.com/ThiagoBristot/SalvaVisitas.git> 
-### Programa desenvolvido para consulta, inserção, modificação e exclusão de um banco de dados em mariaDB via ambiente gráfico (website).
-
-- BumBattle: <https://github.com/ThiagoBristot/BumBattle.git>
-### Tenho em vista montar um plataformer 2D, multiplayer, com armas e itens variados, sendo um jogo de movimentação dinâmica e rápida. Com diversas fases e diferentes temas de ambiente.
+### Programa desenvolvido para consulta, inserção, modificação e exclusão de um banco de dados em mariaDB via ambiente gráfico 
